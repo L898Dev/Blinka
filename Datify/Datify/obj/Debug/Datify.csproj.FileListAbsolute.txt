@@ -1,0 +1,5 @@
+C:\CODE\Datify\Datify\obj\Debug\ResolveAssemblyReference.cache
+C:\CODE\Datify\Datify\bin\Debug\Datify.exe
+C:\CODE\Datify\Datify\bin\Debug\Datify.pdb
+C:\CODE\Datify\Datify\obj\Debug\Datify.exe
+C:\CODE\Datify\Datify\obj\Debug\Datify.pdb

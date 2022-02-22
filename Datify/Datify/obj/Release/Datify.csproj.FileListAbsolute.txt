@@ -1,0 +1,11 @@
+C:\CODE\Datify\Datify\bin\Release\Datify.exe
+C:\CODE\Datify\Datify\bin\Release\Datify.pdb
+C:\CODE\Datify\Datify\obj\Release\ResolveAssemblyReference.cache
+C:\CODE\Datify\Datify\obj\Release\Datify.exe
+C:\CODE\Datify\Datify\obj\Release\Datify.pdb
+F:\BLINKA\DEV\Datify\Datify\bin\Release\Datify.exe
+F:\BLINKA\DEV\Datify\Datify\bin\Release\Datify.pdb
+F:\BLINKA\DEV\Datify\Datify\obj\Release\Datify.csproj.AssemblyReference.cache
+F:\BLINKA\DEV\Datify\Datify\obj\Release\Datify.csproj.CoreCompileInputs.cache
+F:\BLINKA\DEV\Datify\Datify\obj\Release\Datify.exe
+F:\BLINKA\DEV\Datify\Datify\obj\Release\Datify.pdb
